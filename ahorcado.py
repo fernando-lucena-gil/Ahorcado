@@ -197,5 +197,3 @@ while jugardenuevo == 'si':
       repeat = 1
     else:
       print('Me tienes que decir SI o NO!')
-
-# Perico el de los palotes
