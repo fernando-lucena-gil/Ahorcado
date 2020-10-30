@@ -34,5 +34,3 @@ print(Add(69,420))
 add = lambda numberOne, numberTwo: numberOne + numberTwo
 
 print(add(10,30))
-
-#Perico de los palotes
